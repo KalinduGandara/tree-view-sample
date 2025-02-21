@@ -1,9 +1,9 @@
 {
-	"name": "custom-view-samples",
+	"name": "tree-view-sample",
 	"displayName": "Custom view Samples",
 	"description": "Samples for VSCode's view API",
-	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"version": "1.0.0",
+	"publisher": "KalinduGandara",
 	"private": true,
 	"license": "MIT",
 	"repository": {
